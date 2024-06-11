@@ -26,14 +26,14 @@ Once you're done:
 
 - Copy the downloaded `Configuration.xml` file to the root of the C drive, i.e. `C:\Configuration.xml`
 
-- Open the command prompt as admin and run the below commands
+Open the command prompt as admin and run the below commands, one at a time:
 
-    ```text
-    cd /d C:\
-    setup.exe /configure Configuration.xml
-    ```
+```
+cd /d C:\
+```
+
+```
+setup.exe /configure Configuration.xml
+```
 
 It will now download and install Office. You can activate it with your preferred method.
-
-
-
