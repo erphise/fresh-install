@@ -43,7 +43,7 @@ irm https://massgrave.dev/get | iex
 
 - You will see the activation options, follow the on-screen instructions.
 
-- That's all.
+- That's all, you are done.
 
 To run the scripts in unattended mode, check [here.](<https://massgrave.dev/command_line_switches>)
 
